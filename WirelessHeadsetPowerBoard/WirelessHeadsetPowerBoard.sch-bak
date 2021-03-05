@@ -1062,13 +1062,13 @@ Charge Control IC
 $Comp
 L Connector:Conn_01x02_Female J3
 U 1 1 6023DA66
-P 6275 2950
-F 0 "J3" H 6167 2625 50  0000 C CNN
-F 1 "Conn_01x02_Female" H 6167 2716 50  0000 C CNN
-F 2 "Connector_JST:JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal" H 6275 2950 50  0001 C CNN
-F 3 "~" H 6275 2950 50  0001 C CNN
-	1    6275 2950
-	-1   0    0    1   
+P 6275 2850
+F 0 "J3" H 6167 2525 50  0000 C CNN
+F 1 "Conn_01x02_Female" H 6167 2616 50  0000 C CNN
+F 2 "Connector_JST:JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal" H 6275 2850 50  0001 C CNN
+F 3 "~" H 6275 2850 50  0001 C CNN
+	1    6275 2850
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:LED D2
